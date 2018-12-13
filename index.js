@@ -1,1 +1,5 @@
-console.log('输入一个什么...')
+function sum(a, b) {
+  console.log('我要测试啦')
+  return a + b;
+}
+module.exports = sum;
