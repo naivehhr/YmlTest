@@ -1,0 +1,22 @@
+{
+  "name": "ymltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test specified"
+  },
+  "dependencies": {
+    "antd": "3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naivehhr/YmlTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naivehhr/YmlTest/issues"
+  },
+  "homepage": "https://github.com/naivehhr/YmlTest#readme"
+}
